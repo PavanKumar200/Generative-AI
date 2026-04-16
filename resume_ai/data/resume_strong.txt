@@ -1,0 +1,16 @@
+Name: Alex Chen
+Title: AI Engineer & Data Scientist
+
+Professional Experience:
+Data Scientist at TechCorp (January 2021 - Present) (3 years)
+- Developed and deployed predictive models using Python and Scikit-Learn.
+- Built an automated resume parser using Natural Language Processing (NLP) and LangChain, integrating large language models into the company's internal HR system.
+- Optimized database queries using complex SQL.
+
+Skills:
+- Python, SQL, C++
+- Machine Learning: Random Forest, XGBoost, Neural Networks
+- NLP, LangChain, OpenAI API
+
+Tools & Technologies:
+- Jupyter, Git, Docker, Kubernetes, AWS

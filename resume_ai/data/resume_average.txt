@@ -1,0 +1,17 @@
+Name: Sam Taylor
+Title: Junior Data Scientist
+
+Professional Experience:
+Junior Data Scientist at DataSolutions Inc. (June 2022 - Present) (1.5 years)
+- Analyzed customer data sets using Python and Pandas to find purchasing trends.
+- Built basic classification models using Random Forest and Logistic Regression.
+- Wrote SQL scripts to extract data from the company database for reporting.
+- Currently taking an online course to learn about LLMs and NLP.
+
+Skills:
+- Python, SQL, R
+- Machine Learning: Random Forest, Linear Regression
+- Data Visualization: Matplotlib, Seaborn
+
+Tools & Technologies:
+- Jupyter, Git, Tableau

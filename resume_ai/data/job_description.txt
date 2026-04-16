@@ -1,0 +1,18 @@
+Job Title: Data Scientist
+Department: AI & Analytics
+
+Role Overview:
+We are looking for a Data Scientist to join our team to build scalable AI models and integrate GenAI solutions into our platform.
+
+Required Skills:
+- Programming: Python, SQL
+- Machine Learning: Random Forest, XGBoost, Scikit-Learn
+- AI/NLP: Experience with LangChain, LLMs, and Natural Language Processing (NLP)
+
+Experience Required:
+- 2+ years of professional experience building and deploying machine learning models.
+
+Required Tools:
+- Jupyter Notebooks
+- Git/GitHub for version control
+- Docker for containerization

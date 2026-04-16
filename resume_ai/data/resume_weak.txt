@@ -1,0 +1,17 @@
+Name: Jordan Smith
+Title: Financial Data Analyst
+
+Professional Experience:
+Data Entry & Analyst at FinancePlus (March 2023 - Present) (1 year)
+- Managed massive spreadsheets using Microsoft Excel to track quarterly spending.
+- Created visual dashboards for stakeholders using Tableau.
+- Used basic Python scripts to automate downloading CSV files from emails.
+- Assisted the marketing team with social media metrics tracking.
+
+Skills:
+- Microsoft Excel (VLOOKUP, Pivot Tables)
+- Basic Python
+- Communication, Teamwork, Data Entry
+
+Tools & Technologies:
+- MS Office Suite, Tableau, Google Workspace
